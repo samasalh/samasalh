@@ -1,15 +1,8 @@
 <h1 align="center">Welcome to  Samar Saleh profile 👋 </h1>
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-
-
-
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+QA+&+Software+Test+Engineer+;A+Software+Engineer+!;Always+learn+new+things+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+QA+&+Software+Test+Engineer+;A+Software+Engineer+!;Always+learn+new+things+!" alt="Typing SVG" /></a>
 </p>
-
-
-
- 
 
 - 🏢 **QA & Software Test Engineer**
 - 👨‍💻 **Graduated from ITI 9-month diploma.**
