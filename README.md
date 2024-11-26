@@ -1,14 +1,15 @@
-<h1 align="center">Welcome to Ibrahim El Saeed profile 👋 </h1>
+<h1 align="center">Welcome to  Samar Saleh profile 👋 </h1>
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+Front+End+developer+from+Egypt.;A+Software+Engineer+!;Always+learn+new+things+!" alt="Typing SVG" /></a>
 </p>
 
-- 🏢 **MET Academy - Faculty of Management Information Systems**
-- 👨‍💻  I’m currently learning ervery thing about Front-end development.
-- 🌱  constantly learning new technologies to improve my skills.
-- 💬 **Ask me about programming or anything related to web development.**
+- 🏢 ** QA & Software Test Engineer**
+- 👨‍💻   Graduated from ITI 9-month diploma .
+- 🌱  Graduated from faculity of s.
+- 💬 **Bachelor of Navigation Science from the Faculty of Navigation Science and Space Technology Beni_Suef
+University. OCT 2018 - May 2023**
 - 👨‍💻 I am currently training remotely at Azzrk
 
 ### 🛠 &nbsp;Languages and Tools :
