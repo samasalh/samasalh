@@ -2,15 +2,19 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+QA+Software+Test+Engineer+ ;A+Software+Engineer+!;Always+learn+new+things+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+QA+&+Software+Test+Engineer+ ;A+Software+Engineer+!;Always+learn+new+things+!" alt="Typing SVG" /></a>
 </p>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=QA+%26+Software+Test+Engineer;Test+Automation+Specialist;Always+learning+new+tools+and+techniques!;Passionate+about+quality+and+testing+!;" alt="Typing SVG" />
+</a>
+
 - 🏢 ** QA & Software Test Engineer**
-- 👨‍💻   Graduated from ITI 9-month diploma .
-- 🌱    **ISTQB Foundation Level Certified Tester (CTFL-MAT)**
-- 💬 skills:Manual Testing,Automation Testing ,Selenium with Java, RestAssured, JMeter, and Postman.
+- 👨‍💻 ** Graduated from ITI 9-month diploma .
+- 🌱 **ISTQB Foundation Level Certified Tester (CTFL-MAT)**
+- 💬 **skills:Manual Testing,Automation Testing ,Selenium with Java, RestAssured, JMeter, and Postman.**
 - 👨‍💻 **Bachelor of Navigation Science from the Faculty of Navigation Science and Space Technology Beni_Suef
-University. OCT 2018 - May 2023**
+      University. OCT 2018 - May 2023**
 
 
 
@@ -47,8 +51,6 @@ University. OCT 2018 - May 2023**
 
 #### **Workflows and Methodologies**  
 - Agile Methodologies  - Page Object Model (POM) Design  
-
----
 
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=40px>
 
