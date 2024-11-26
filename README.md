@@ -8,7 +8,8 @@
 - 🏢 **QA & Software Test Engineer**
 - 👨‍💻 **Graduated from ITI 9-month diploma.**
 - 🌱 **ISTQB Foundation Level Certified Tester (CTFL-MAT)**
-- 💬 **Skills: Manual Testing, Test Automation (Selenium with Java, RestAssured, Postman), JMeter, API Testing, and more.**
+- 💬 **Skills: Manual Testing, Test Automation**
+- **(Selenium with Java, RestAssured, Postman), JMeter, API Testing, and more.**
 - 👨‍💻 **Bachelor of Navigation Science from the Faculty of Navigation Science and Space Technology Beni_Suef
       University. OCT 2018 - May 2023**
 
