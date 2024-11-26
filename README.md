@@ -5,11 +5,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+QA++%26+Testing+Engineer+.;Always+learn+new+things+!" alt="Typing SVG" /></a>
 </p>
 
-- 🏢 **QA & Software Test Engineer**
+- 🏢 **QA & Software Test Engineer.**
 - 👨‍💻 **Graduated from ITI 9-month diploma.**
 - 🌱 **ISTQB Foundation Level Certified Tester (CTFL-MAT)**
-- 💬 **Skills: Manual Testing, Test Automation**
-- **(Selenium with Java, RestAssured, Postman), JMeter, API Testing, and more.**
+- 💬 **Skills: Manual Testing, Test Automation(Selenium with Java, RestAssured, Postman), JMeter, API Testing, and more.**
 - 👨‍💻 **Bachelor of Navigation Science from the Faculty of Navigation Science and Space Technology Beni_Suef
       University. OCT 2018 - May 2023**
 
