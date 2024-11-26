@@ -12,21 +12,8 @@
 - 👨‍💻 **Bachelor of Navigation Science from the Faculty of Navigation Science and Space Technology Beni_Suef
 University. OCT 2018 - May 2023**
 
-### 🛠 &nbsp;Languages and Tools :
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 
 
-
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
-
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=40px>
 
 
 ### 🛠 &nbsp;Languages and Tools
@@ -38,46 +25,32 @@ University. OCT 2018 - May 2023**
 ---
 
 #### **Testing Tools**  
-![Selenium WebDriver](https://img.shields.io/badge/-Selenium%20WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white)  
-![RestAssured](https://img.shields.io/badge/-RestAssured-%231B9AAA?style=flat-square&logo=api&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white)  
-![JMeter](https://img.shields.io/badge/-Apache%20JMeter-5A545C?style=flat-square&logo=apache&logoColor=white)
+![Selenium WebDriver](https://img.shields.io/badge/-Selenium%20WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white)  ![RestAssured](https://img.shields.io/badge/-RestAssured-%231B9AAA?style=flat-square&logo=api&logoColor=white) 
+![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white)  ![JMeter](https://img.shields.io/badge/-Apache%20JMeter-5A545C?style=flat-square&logo=apache&logoColor=white)
 
 ---
 
 #### **Version Control and Collaboration**  
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 #### **Frameworks and Libraries**  
-![TestNG](https://img.shields.io/badge/-TestNG-%23181717?style=flat-square&logo=testng&logoColor=white)  
-![Cucumber](https://img.shields.io/badge/-Cucumber-23D97D?style=flat-square&logo=cucumber&logoColor=white)
+![TestNG](https://img.shields.io/badge/-TestNG-%23181717?style=flat-square&logo=testng&logoColor=white)  ![Cucumber](https://img.shields.io/badge/-Cucumber-23D97D?style=flat-square&logo=cucumber&logoColor=white)
 
 ---
 
 #### **Development Tools**  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)  
-![JIRA](https://img.shields.io/badge/-JIRA-%230A64C9?style=flat-square&logo=jira&logoColor=white)
-
----
-
-#### **Operating Systems**  
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)  ![JIRA](https://img.shields.io/badge/-JIRA-%230A64C9?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
 #### **Workflows and Methodologies**  
-- Agile Methodologies  
-- Page Object Model (POM) Design  
+- Agile Methodologies  - Page Object Model (POM) Design  
 
 ---
 
-#### **Extras**  
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="40px">
-
+ <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=40px>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
