@@ -7,10 +7,10 @@
 
 - 🏢 ** QA & Software Test Engineer**
 - 👨‍💻   Graduated from ITI 9-month diploma .
-- 🌱  Graduated from faculity of s.
-- 💬 **Bachelor of Navigation Science from the Faculty of Navigation Science and Space Technology Beni_Suef
+- 🌱    **ISTQB Foundation Level Certified Tester (CTFL-MAT)**
+- 💬 skills:Manual Testing,Automation Testing ,Selenium with Java, RestAssured, JMeter, and Postman.
+- 👨‍💻 **Bachelor of Navigation Science from the Faculty of Navigation Science and Space Technology Beni_Suef
 University. OCT 2018 - May 2023**
-- 👨‍💻 I am currently training remotely at Azzrk
 
 ### 🛠 &nbsp;Languages and Tools :
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
