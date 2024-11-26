@@ -58,7 +58,7 @@
 <br>
 <br>
 <br>
-### 📂 Check Out My Repositories
+ 📂 Check Out My Repositories
 <br>
 <br>
 Explore my repositories to see my projects, automation scripts, and more!
