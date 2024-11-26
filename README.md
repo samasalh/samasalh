@@ -17,6 +17,7 @@
 
 
 ### 🛠 &nbsp;Languages and Tools
+<br><br>
 
 #### **Programming and Scripting Languages**  
 ![Java](https://img.shields.io/badge/-Java-%23F05032?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![SQL](https://img.shields.io/badge/-SQL-%234169E1?style=flat-square&logo=mysql&logoColor=white)  
